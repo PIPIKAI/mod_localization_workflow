@@ -1,0 +1,6 @@
+[submodule "MoreFluff"]
+	path = MoreFluff
+	url = https://github.com/notmario/MoreFluff
+[submodule "Cryptid-localization-zh_CN"]
+	path = Cryptid-localization-zh_CN
+	url = https://github.com/PIPIKAI/Cryptid-localization-zh_CN
